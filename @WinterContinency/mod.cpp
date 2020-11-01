@@ -1,0 +1,9 @@
+author = "Suraru";
+name = "Winter Contingency";
+action = "https://discord.gg/QxukZ8B";
+actionName = "Discord";
+overview = "Winter Contingency<br />Description:<br />Winter Contingency is a total conversion mod to bring Bungie's Halo Universe into Arma<br />by Suraru";
+picture = "LOGO.paa";
+logo = "LOGO.paa";
+logoOver = "LOGO.paa";
+logoSmall = "LOGO.paa";
